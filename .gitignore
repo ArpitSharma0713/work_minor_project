@@ -1,0 +1,8 @@
+# Ignore large ML files
+*.pkl
+*.keras
+*.csv
+
+# Python
+__pycache__/
+.venv/
